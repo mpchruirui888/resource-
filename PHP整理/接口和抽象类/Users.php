@@ -42,7 +42,6 @@ abstract class Users
     {
         return '抽象类构造器，实例化时自动调用<br>';
     }
-
     //抽象方法
     abstract public function say();
 
